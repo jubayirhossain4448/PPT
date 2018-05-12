@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8"/>
+	<title>Home work</title>
+	</head>
+		<body>This is my first class on HTML-5.Hope I will do better in future.</body>
