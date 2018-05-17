@@ -1,0 +1,63 @@
+#form{
+    width: 100%;
+    height: auto;
+    min-height: 600px;
+    background: #ff64eb;
+    margin: 0 auto;      
+}
+#header{
+    width: 100%;
+    height: 100px;
+    background: #006666;
+    margin: 0 auto; 
+    text-align: center;
+    color: #ffff00;
+    line-height: 2.25;
+}
+#body{
+    width: 100%;
+    height: 430px;
+    background: #ff66ff;
+    margin: 0 auto;      
+}
+#left{
+    width: 30%;
+    height: 430px;
+    background: #999999;
+    float: left;
+}
+#right{
+    width: 70%;
+    height: 430px;
+    background: #ff66ff;
+    float: left;
+}
+.form-container{
+    width: 100%;
+    height: auto;
+}
+.label{
+    width: 50%;
+    height: auto;
+    float: left;
+}
+.First Name{
+    width: 100%;
+    height: auto;
+}
+
+.Last Name{
+    width: 100%;
+    height: auto;
+}
+.footer{
+    width: 100%;
+    height: 70px;
+    background: #cccccc;
+    margin: 0 auto;
+}
+marquee{
+    color: #ffff00;
+    font-size: 25px;
+    font-weight: 900;
+}
